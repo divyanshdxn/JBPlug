@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.divyanshdxn.jbplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.divyanshdxn.jbplug.MyBundle
 
 class MyApplicationService {
 
